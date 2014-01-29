@@ -8,4 +8,4 @@ VOLUME ["/etc/zookeeper/conf"]
 VOLUME ["/var/lib/zookeeper"]
 VOLUME ["/var/log/zookeeper"]
 
-EXPOSE 2181
+EXPOSE 2181 2888 3888

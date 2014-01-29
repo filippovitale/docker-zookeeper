@@ -1,4 +1,4 @@
-# Apache Zookeeper 3.4.5
+# Apache Zookeeper 3.3.5
 
 ```
 FROM filippovitale/java7
